@@ -58,6 +58,6 @@ Our project automatically generates and saves the following critical visual anal
 ## 📁 Repository Structure
 ```text
 ├── analysis.ipynb           # Complete Jupyter Notebook with code, tables, and charts
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv  # IBM HR Dataset
+├── HR-Employee-Attrition.csv  # IBM HR Dataset
 ├── summary.pdf              # 1-Page Non-Technical Executive Summary for HR Directors
 └── charts/                  # Directory containing exported evaluation graphs (.png)
